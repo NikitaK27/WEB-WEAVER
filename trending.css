@@ -166,9 +166,20 @@ html, body {
 }
 
 .bright_back {
-  background: url("https://occ-0-2433-448.1.nflxso.net/art/cd5c9/3e192edf2027c536e25bb5d3b6ac93ced77cd5c9.jpg");
+  background: url("b0.jpg");
 }
-
+.t1{
+  background: url("b3.jpg");
+}
+.t2{
+  background: url("b1.jpg");
+}
+.t3{
+  background: url("b2.jpg");
+}
+.t4{
+  background: url("b4.jpg");
+}
 #tomb {
   box-shadow: 0px 0px 120px -40px #2196f3;
 }
@@ -176,9 +187,9 @@ html, body {
   box-shadow: 0px 0px 120px -55px #2196f3;
 }
 
-.tomb_back {
+/* .tomb_back {
   background: url("https://fsmedia.imgix.net/cd/c9/5e/ba/4817/4d9a/93f0/c776ec32ecbc/lara-crofts-neck-looks-unnatural-in-the-new-poster-for-tomb-raider.png");
-}
+} */
 
 #ave {
   box-shadow: 0px 0px 150px -45px rgba(199, 147, 75, 0.7);
